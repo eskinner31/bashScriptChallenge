@@ -1,4 +1,4 @@
-#BashScript Challenge
+}#BashScript Challenge
 
 ##The Story
 
@@ -14,13 +14,16 @@ Below is a sample of the ideal tree structure.
 
 Your friend is new to bash scripting. Clone this repo and review their script in `generator.sh`. Work to make sure their script generates the appropriate file structure. Fix any errors you find, and add any additional commands that may be necessary. *Note* Be sure that all files are accessible to the owner, and that the final product is completely wired up. When you open the `index.html` file you should be able to see your CSS styles, and you should receive an alert from your javascript.
 
+(*Hint* you can run your script using `sh <scriptName>`)
+
 ![Complete HTML page](./images/completedHTML.png)
+
 
 
 ##The Stretch
 - User can dynamically set the name of the project folder
-- HTML page renders the name of the user who created the file
-- HTML page renders the date of creation
+- HTML page dynamically renders the name of the user who created the file
+- HTML page dynamically renders the date of creation
 
 
 ###Resources
